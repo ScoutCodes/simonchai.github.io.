@@ -1,2 +1,2 @@
 # simonchai.github.io.
-Collection of projects done by Simon Chaisouang throughout school career
+Collection of projects done by Simon Chaisouang throughout graduate school
